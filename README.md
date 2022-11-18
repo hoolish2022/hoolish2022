@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   a {
     text-decoration: unset;
   }
@@ -14,7 +14,7 @@
   .title {
     padding-left: 1rem;
   }
-</style>
+</style> -->
 
 <h1 align="center">
   Hi👋, Hope & Pray that you and your loved ones are safe and healthy !!!
